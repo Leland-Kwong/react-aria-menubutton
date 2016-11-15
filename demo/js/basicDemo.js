@@ -52,7 +52,7 @@ class DemoOne extends React.Component {
     return (
       <div>
         <Wrapper
-          className='AriaMenuButton'
+          className='AriaMenuButton'          
           onSelection={this.handleSelection.bind(this)}
         >
           <Button className='AriaMenuButton-trigger'>

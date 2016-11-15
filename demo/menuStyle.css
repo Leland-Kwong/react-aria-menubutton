@@ -1,3 +1,9 @@
+.AriaMenuButton__SubMenu [role="menu"] {
+  position: absolute;
+  left: 100%;
+  width: 215px;
+}
+
 .AriaMenuButton {
   display: inline-block;
   position: relative;
